@@ -62,7 +62,6 @@ impl<T> Channel<T> {
     }
 }
 
-
 fn main() {
 
     let channel: Channel<String> = Channel::new();
